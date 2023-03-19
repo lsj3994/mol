@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "508809593792",
+    "firebase_url": "https://manageofleage-default-rtdb.firebaseio.com",
+    "project_id": "manageofleage",
+    "storage_bucket": "manageofleage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508809593792:android:03eb80afd6a771890abe25",
+        "android_client_info": {
+          "package_name": "com.example.manageofleage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508809593792-439oupti8397f1dbpbfbul466ieq1137.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqufGJALWCgjKUa7MLXIGKIT-D_vKreFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508809593792-439oupti8397f1dbpbfbul466ieq1137.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508809593792:android:e776ed9db9b5a84d0abe25",
+        "android_client_info": {
+          "package_name": "com.example.manageofleague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508809593792-439oupti8397f1dbpbfbul466ieq1137.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqufGJALWCgjKUa7MLXIGKIT-D_vKreFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508809593792-439oupti8397f1dbpbfbul466ieq1137.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
